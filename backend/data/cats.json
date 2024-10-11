@@ -8,19 +8,19 @@
     "isAllergent": true
   },
   {
-    "id": 1,
-    "name": "Nyafi",
-    "age": 6,
-    "breed": "long-haired domestic cat",
-    "color": "spotted black",
-    "isAllergent": true
-  },
-  {
     "id": 2,
     "name": "Szaffi",
     "age": 12,
     "breed": "domestic cat",
     "color": "black",
+    "isAllergent": true
+  },
+  {
+    "id": 1,
+    "name": "Nyafi",
+    "age": 6,
+    "breed": "long-haired domestic cat",
+    "color": "spotted black",
     "isAllergent": true
   },
   {
@@ -30,5 +30,29 @@
     "breed": "domestic cat",
     "color": "tabby",
     "isAllergent": true
+  },
+  {
+    "name": "Sedó2",
+    "age": 11,
+    "breed": "domestic cat",
+    "color": "white",
+    "isAllergent": false,
+    "id": 4
+  },
+  {
+    "name": "Sedó3",
+    "age": 111,
+    "breed": "domestic cat",
+    "color": "white",
+    "isAllergent": false,
+    "id": 5
+  },
+  {
+    "name": "Sedó4",
+    "age": 1111,
+    "breed": "domestic cat",
+    "color": "white",
+    "isAllergent": false,
+    "id": 6
   }
 ]
